@@ -1,4 +1,4 @@
-# Stepanenko Challenge
+# Probabilistic Web Crawler
 
 ### Installation:
 ```
